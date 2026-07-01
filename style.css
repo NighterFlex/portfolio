@@ -208,11 +208,11 @@ section{
 
   @keyframes words{
     0%, 20%{
-      content: "ML Engineer";
+      content: "ML Person";
     }
 
     21%, 40%{
-      content: "SW Engineer";
+      content: "Reverse Engineer";
     }
 
     41%, 60%{
